@@ -3,6 +3,7 @@
 // input: arr[] = { 10, 5, 10}
 // outout: The largest elemt of the array is 10 and the second largest element is 5.
 
+
 function secondlargest (arr, arr_size) {
     let i;
     let largest = second = -2454635434
