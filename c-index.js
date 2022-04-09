@@ -22,7 +22,8 @@ function secondlargest (arr, arr_size) {
         if (arr[i]>second && arr[i]<largest) {
             second = arr[i];
     }
-}
+    }
+    
 
 if (second == -2454635434) {
     console.log("There is no more second largest element ");
@@ -32,6 +33,7 @@ else{
     return;
 }
 }
+
 
 let arr= [ 10, 10, 10 ];
 let n = arr.length;
